@@ -17,7 +17,7 @@ const Contact: React.FC = () => {
                         <div className="contact-links">
                             <a href="tel:+917989013278" className="contact-link-item">
                                 <div className="icon-circle"><i className="fas fa-phone-alt"></i></div>
-                                <span>+91 7989013278</span>
+                                <span>Phone</span>
                             </a>
                             <a href="mailto:chiranjeevi.madem@example.com" className="contact-link-item">
                                 <div className="icon-circle"><i className="fas fa-envelope"></i></div>
